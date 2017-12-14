@@ -16,4 +16,4 @@ Source: https://twitter.com/mcmiller00/status/690894999370633216
 ![](https://github.com/pacroy/microservices/raw/master/images/the12factorapp.png)
 
 [Download PDF](https://github.com/pacroy/microservices/raw/master/images/the12factorapp.pdf)  
-Source: https://12factor.net
+Source: https://dzone.com/articles/dzone-infographic-round-up, https://12factor.net
