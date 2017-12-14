@@ -4,6 +4,13 @@
 
 - [Microservices: a definition of this new architectural term](https://martinfowler.com/articles/microservices.html) by Martin Fowler
 - [Innovate or Die: The Rise of Microservices](https://www.sequoiacap.com/article/build-us-microservices/) by Matt Miller
+- [microservices.io](http://microservices.io/) by Chris Richardson
+
+## Microservices Context
+
+![](https://github.com/pacroy/microservices/raw/master/images/microservices_context.png)
+
+Source: https://github.com/up1/course-microservice/raw/master/slide/day02/01-DEVELOP-SERVICE.pdf
 
 ## Microservices Ecosystem
 
