@@ -17,3 +17,8 @@ Source: https://twitter.com/mcmiller00/status/690894999370633216
 
 [Download PDF](https://github.com/pacroy/microservices/raw/master/images/the12factorapp.pdf)  
 Source: https://dzone.com/articles/dzone-infographic-round-up, https://12factor.net
+
+## Service Blueprint
+![](https://github.com/pacroy/microservices/raw/master/images/service_blueprint.png)
+
+Source: https://www.slideshare.net/jaminhegeman/service-stormin-and-dragon-lines/25-Service_Blueprint_of_Presby_Neuro
