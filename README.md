@@ -25,6 +25,12 @@ Source: https://twitter.com/mcmiller00/status/690894999370633216
 [Download PDF](https://github.com/pacroy/microservices/raw/master/images/the12factorapp.pdf)  
 Source: https://dzone.com/articles/dzone-infographic-round-up, https://12factor.net
 
+## Transformation
+
+![](https://github.com/pacroy/microservices/raw/master/images/mindset_shifts_for_org_transformation.png)
+
+Source: https://www.weforum.org/agenda/2017/12/is-management-era-over/
+
 ## Service Blueprint
 ![](https://github.com/pacroy/microservices/raw/master/images/service_blueprint_neuro_clinic.png)
 
